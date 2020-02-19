@@ -4,6 +4,7 @@ BetterRecycling uses convolutional neural networks to classify four different ty
 - plastic
 - metal
 - glass
+
 A Raspberry Pi 1 B was used for analog classification.
 This project reached the national finals (top 8) of the German National Contest for AI
 ([Bundeswettbewerb Künstliche Intelligenz](https://bw-ki.de)) in 2019 with over 2000 participants.
