@@ -1,8 +1,5 @@
 # BetterRecycling
 
-genauer auf Projekt eingehen, auch Graphen zeigen
-Bilder bearbeiten
-
 Using convolutional neural networks in PyTorch to classify waste!
 
 **Table of contents**
